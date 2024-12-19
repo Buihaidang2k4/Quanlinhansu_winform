@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A6B62B89-56CC-4939-BF7D-40D16D234043}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QuanLiNhanSu</RootNamespace>
+    <AssemblyName>QuanLiNhanSu</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.4.6\lib\net48\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1001\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class\Database_connect\Database_connect.cs" />
+    <Compile Include="Class\TaiKhoan\Const.cs" />
+    <Compile Include="LOGIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LOGIN.Designer.cs">
+      <DependentUpon>LOGIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login_Register\Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login_Register\Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login_Register\Key.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login_Register\Key.Designer.cs">
+      <DependentUpon>Key.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login_Register\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login_Register\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login_Register\Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login_Register\Register.Designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User admin\ChamC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User admin\ChamC.Designer.cs">
+      <DependentUpon>ChamC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User admin\Doimatkhau.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User admin\Doimatkhau.Designer.cs">
+      <DependentUpon>Doimatkhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User admin\Hienthidanhsach.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User admin\Hienthidanhsach.Designer.cs">
+      <DependentUpon>Hienthidanhsach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User admin\Luong.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User admin\Luong.Designer.cs">
+      <DependentUpon>Luong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="User admin\Taikhoan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User admin\Taikhoan.Designer.cs">
+      <DependentUpon>Taikhoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User admin\Xinnghi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User admin\Xinnghi.Designer.cs">
+      <DependentUpon>Xinnghi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User admin\Xuatds.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User admin\Xuatds.Designer.cs">
+      <DependentUpon>Xuatds.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login_Register\User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login_Register\User.Designer.cs">
+      <DependentUpon>User.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="LOGIN.resx">
+      <DependentUpon>LOGIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login_Register\Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login_Register\Key.resx">
+      <DependentUpon>Key.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login_Register\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login_Register\Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User admin\ChamC.resx">
+      <DependentUpon>ChamC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User admin\Doimatkhau.resx">
+      <DependentUpon>Doimatkhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User admin\Hienthidanhsach.resx">
+      <DependentUpon>Hienthidanhsach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User admin\Luong.resx">
+      <DependentUpon>Luong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="User admin\Taikhoan.resx">
+      <DependentUpon>Taikhoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User admin\Xinnghi.resx">
+      <DependentUpon>Xinnghi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User admin\Xuatds.resx">
+      <DependentUpon>Xuatds.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login_Register\User.resx">
+      <DependentUpon>User.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icon\analytics.png" />
+    <Content Include="Icon\delete.png" />
+    <Content Include="Icon\diskette.png" />
+    <Content Include="Icon\diversity %281%29.png" />
+    <Content Include="Icon\edit %282%29.png" />
+    <Content Include="Icon\favicon.ico" />
+    <Content Include="Icon\huy.png" />
+    <Content Include="Icon\huy64.png" />
+    <Content Include="Icon\key.png" />
+    <Content Include="Icon\magnifi1er.png" />
+    <Content Include="Icon\plus %282%29.png" />
+    <Content Include="Icon\profile.png" />
+    <Content Include="Icon\salary.png" />
+    <Content Include="Icon\save.png" />
+    <Content Include="Icon\staff.png" />
+    <Content Include="Icon\sua.png" />
+    <Content Include="Icon\team.png" />
+    <Content Include="Icon\teamwork %281%29.png" />
+    <Content Include="Icon\teamwork %282%29.png" />
+    <Content Include="Icon\timer.png" />
+    <Content Include="Icon\turn-off.png" />
+    <Content Include="Icon\user %281%29.png" />
+    <Content Include="Icon\xoa64.png" />
+    <Content Include="Image\bgr1.jpg" />
+    <Content Include="Image\diversity %281%29.png" />
+    <Content Include="Image\images %281%29.jpg" />
+    <Content Include="Image\images.png" />
+    <Content Include="Image\logout.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

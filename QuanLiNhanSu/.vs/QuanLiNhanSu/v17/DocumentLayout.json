@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CONG NGHE MOI\\C#\\Window Form C#\\Quanlinhansu\\QuanLiNhanSu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B62B89-56CC-4939-BF7D-40D16D234043}|QuanLiNhanSu\\QuanLiNhanSu.csproj|E:\\CONG NGHE MOI\\C#\\Window Form C#\\Quanlinhansu\\QuanLiNhanSu\\quanlinhansu\\login_register\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6B62B89-56CC-4939-BF7D-40D16D234043}|QuanLiNhanSu\\QuanLiNhanSu.csproj|solutionrelative:quanlinhansu\\login_register\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B62B89-56CC-4939-BF7D-40D16D234043}|QuanLiNhanSu\\QuanLiNhanSu.csproj|e:\\cong nghe moi\\c#\\window form c#\\quanlinhansu\\quanlinhansu\\quanlinhansu\\login_register\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6B62B89-56CC-4939-BF7D-40D16D234043}|QuanLiNhanSu\\QuanLiNhanSu.csproj|solutionrelative:quanlinhansu\\login_register\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B62B89-56CC-4939-BF7D-40D16D234043}|QuanLiNhanSu\\QuanLiNhanSu.csproj|e:\\cong nghe moi\\c#\\window form c#\\quanlinhansu\\quanlinhansu\\quanlinhansu\\login_register\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6B62B89-56CC-4939-BF7D-40D16D234043}|QuanLiNhanSu\\QuanLiNhanSu.csproj|solutionrelative:quanlinhansu\\login_register\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B62B89-56CC-4939-BF7D-40D16D234043}|QuanLiNhanSu\\QuanLiNhanSu.csproj|e:\\cong nghe moi\\c#\\window form c#\\quanlinhansu\\quanlinhansu\\quanlinhansu\\login_register\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6B62B89-56CC-4939-BF7D-40D16D234043}|QuanLiNhanSu\\QuanLiNhanSu.csproj|solutionrelative:quanlinhansu\\login_register\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B62B89-56CC-4939-BF7D-40D16D234043}|QuanLiNhanSu\\QuanLiNhanSu.csproj|E:\\CONG NGHE MOI\\C#\\Window Form C#\\Quanlinhansu\\QuanLiNhanSu\\quanlinhansu\\login_register\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6B62B89-56CC-4939-BF7D-40D16D234043}|QuanLiNhanSu\\QuanLiNhanSu.csproj|solutionrelative:quanlinhansu\\login_register\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B62B89-56CC-4939-BF7D-40D16D234043}|QuanLiNhanSu\\QuanLiNhanSu.csproj|e:\\cong nghe moi\\c#\\window form c#\\quanlinhansu\\quanlinhansu\\quanlinhansu\\user admin\\chamc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6B62B89-56CC-4939-BF7D-40D16D234043}|QuanLiNhanSu\\QuanLiNhanSu.csproj|solutionrelative:quanlinhansu\\user admin\\chamc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B62B89-56CC-4939-BF7D-40D16D234043}|QuanLiNhanSu\\QuanLiNhanSu.csproj|E:\\CONG NGHE MOI\\C#\\Window Form C#\\Quanlinhansu\\QuanLiNhanSu\\quanlinhansu\\user admin\\luong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6B62B89-56CC-4939-BF7D-40D16D234043}|QuanLiNhanSu\\QuanLiNhanSu.csproj|solutionrelative:quanlinhansu\\user admin\\luong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B62B89-56CC-4939-BF7D-40D16D234043}|QuanLiNhanSu\\QuanLiNhanSu.csproj|E:\\CONG NGHE MOI\\C#\\Window Form C#\\Quanlinhansu\\QuanLiNhanSu\\quanlinhansu\\login_register\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B62B89-56CC-4939-BF7D-40D16D234043}|QuanLiNhanSu\\QuanLiNhanSu.csproj|solutionrelative:quanlinhansu\\login_register\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B62B89-56CC-4939-BF7D-40D16D234043}|QuanLiNhanSu\\QuanLiNhanSu.csproj|E:\\CONG NGHE MOI\\C#\\Window Form C#\\Quanlinhansu\\QuanLiNhanSu\\quanlinhansu\\user admin\\xinnghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6B62B89-56CC-4939-BF7D-40D16D234043}|QuanLiNhanSu\\QuanLiNhanSu.csproj|solutionrelative:quanlinhansu\\user admin\\xinnghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B62B89-56CC-4939-BF7D-40D16D234043}|QuanLiNhanSu\\QuanLiNhanSu.csproj|E:\\CONG NGHE MOI\\C#\\Window Form C#\\Quanlinhansu\\QuanLiNhanSu\\quanlinhansu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B62B89-56CC-4939-BF7D-40D16D234043}|QuanLiNhanSu\\QuanLiNhanSu.csproj|solutionrelative:quanlinhansu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B62B89-56CC-4939-BF7D-40D16D234043}|QuanLiNhanSu\\QuanLiNhanSu.csproj|E:\\CONG NGHE MOI\\C#\\Window Form C#\\Quanlinhansu\\QuanLiNhanSu\\quanlinhansu\\user admin\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B62B89-56CC-4939-BF7D-40D16D234043}|QuanLiNhanSu\\QuanLiNhanSu.csproj|solutionrelative:quanlinhansu\\user admin\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B62B89-56CC-4939-BF7D-40D16D234043}|QuanLiNhanSu\\QuanLiNhanSu.csproj|E:\\CONG NGHE MOI\\C#\\Window Form C#\\Quanlinhansu\\QuanLiNhanSu\\quanlinhansu\\user admin\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6B62B89-56CC-4939-BF7D-40D16D234043}|QuanLiNhanSu\\QuanLiNhanSu.csproj|solutionrelative:quanlinhansu\\user admin\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "E:\\CONG NGHE MOI\\C#\\Window Form C#\\Quanlinhansu\\QuanLiNhanSu\\QuanLiNhanSu\\Login_Register\\Register.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanSu\\Login_Register\\Register.cs",
+              "ToolTip": "E:\\CONG NGHE MOI\\C#\\Window Form C#\\Quanlinhansu\\QuanLiNhanSu\\QuanLiNhanSu\\Login_Register\\Register.cs [Design]",
+              "RelativeToolTip": "QuanLiNhanSu\\Login_Register\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:52:56.492Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "E:\\CONG NGHE MOI\\C#\\Window Form C#\\Quanlinhansu\\QuanLiNhanSu\\QuanLiNhanSu\\Login_Register\\Login.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanSu\\Login_Register\\Login.cs",
+              "ToolTip": "E:\\CONG NGHE MOI\\C#\\Window Form C#\\Quanlinhansu\\QuanLiNhanSu\\QuanLiNhanSu\\Login_Register\\Login.cs [Design]",
+              "RelativeToolTip": "QuanLiNhanSu\\Login_Register\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:52:55.208Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Key.cs [Design]",
+              "DocumentMoniker": "E:\\CONG NGHE MOI\\C#\\Window Form C#\\Quanlinhansu\\QuanLiNhanSu\\QuanLiNhanSu\\Login_Register\\Key.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanSu\\Login_Register\\Key.cs",
+              "ToolTip": "E:\\CONG NGHE MOI\\C#\\Window Form C#\\Quanlinhansu\\QuanLiNhanSu\\QuanLiNhanSu\\Login_Register\\Key.cs [Design]",
+              "RelativeToolTip": "QuanLiNhanSu\\Login_Register\\Key.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:52:53.623Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChamC.cs [Design]",
+              "DocumentMoniker": "E:\\CONG NGHE MOI\\C#\\Window Form C#\\Quanlinhansu\\QuanLiNhanSu\\QuanLiNhanSu\\User admin\\ChamC.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanSu\\User admin\\ChamC.cs",
+              "ToolTip": "E:\\CONG NGHE MOI\\C#\\Window Form C#\\Quanlinhansu\\QuanLiNhanSu\\QuanLiNhanSu\\User admin\\ChamC.cs [Design]",
+              "RelativeToolTip": "QuanLiNhanSu\\User admin\\ChamC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T04:34:53.369Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "E:\\CONG NGHE MOI\\C#\\Window Form C#\\Quanlinhansu\\QuanLiNhanSu\\QuanLiNhanSu\\Login_Register\\Home.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanSu\\Login_Register\\Home.cs",
+              "ToolTip": "E:\\CONG NGHE MOI\\C#\\Window Form C#\\Quanlinhansu\\QuanLiNhanSu\\QuanLiNhanSu\\Login_Register\\Home.cs [Design]",
+              "RelativeToolTip": "QuanLiNhanSu\\Login_Register\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T04:34:41.335Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\CONG NGHE MOI\\C#\\Window Form C#\\Quanlinhansu\\QuanLiNhanSu\\QuanLiNhanSu\\Login_Register\\User.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanSu\\Login_Register\\User.cs",
+              "ToolTip": "E:\\CONG NGHE MOI\\C#\\Window Form C#\\Quanlinhansu\\QuanLiNhanSu\\QuanLiNhanSu\\Login_Register\\User.cs",
+              "RelativeToolTip": "QuanLiNhanSu\\Login_Register\\User.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAhwCMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T04:30:29.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs [Design]",
+              "DocumentMoniker": "E:\\CONG NGHE MOI\\C#\\Window Form C#\\Quanlinhansu\\QuanLiNhanSu\\QuanLiNhanSu\\Login_Register\\User.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanSu\\Login_Register\\User.cs",
+              "ToolTip": "E:\\CONG NGHE MOI\\C#\\Window Form C#\\Quanlinhansu\\QuanLiNhanSu\\QuanLiNhanSu\\Login_Register\\User.cs [Design]",
+              "RelativeToolTip": "QuanLiNhanSu\\Login_Register\\User.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T04:29:56.833Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Luong.cs [Design]",
+              "DocumentMoniker": "E:\\CONG NGHE MOI\\C#\\Window Form C#\\Quanlinhansu\\QuanLiNhanSu\\QuanLiNhanSu\\User admin\\Luong.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanSu\\User admin\\Luong.cs",
+              "ToolTip": "E:\\CONG NGHE MOI\\C#\\Window Form C#\\Quanlinhansu\\QuanLiNhanSu\\QuanLiNhanSu\\User admin\\Luong.cs [Design]",
+              "RelativeToolTip": "QuanLiNhanSu\\User admin\\Luong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T04:34:48.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Xinnghi.cs [Design]",
+              "DocumentMoniker": "E:\\CONG NGHE MOI\\C#\\Window Form C#\\Quanlinhansu\\QuanLiNhanSu\\QuanLiNhanSu\\User admin\\Xinnghi.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanSu\\User admin\\Xinnghi.cs",
+              "ToolTip": "E:\\CONG NGHE MOI\\C#\\Window Form C#\\Quanlinhansu\\QuanLiNhanSu\\QuanLiNhanSu\\User admin\\Xinnghi.cs [Design]",
+              "RelativeToolTip": "QuanLiNhanSu\\User admin\\Xinnghi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T04:28:56.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CONG NGHE MOI\\C#\\Window Form C#\\Quanlinhansu\\QuanLiNhanSu\\QuanLiNhanSu\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanSu\\Program.cs",
+              "ToolTip": "E:\\CONG NGHE MOI\\C#\\Window Form C#\\Quanlinhansu\\QuanLiNhanSu\\QuanLiNhanSu\\Program.cs",
+              "RelativeToolTip": "QuanLiNhanSu\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:44:27.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Taikhoan.cs [Design]",
+              "DocumentMoniker": "E:\\CONG NGHE MOI\\C#\\Window Form C#\\Quanlinhansu\\QuanLiNhanSu\\QuanLiNhanSu\\User admin\\Taikhoan.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanSu\\User admin\\Taikhoan.cs",
+              "ToolTip": "E:\\CONG NGHE MOI\\C#\\Window Form C#\\Quanlinhansu\\QuanLiNhanSu\\QuanLiNhanSu\\User admin\\Taikhoan.cs [Design]",
+              "RelativeToolTip": "QuanLiNhanSu\\User admin\\Taikhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:29:43.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Taikhoan.cs",
+              "DocumentMoniker": "E:\\CONG NGHE MOI\\C#\\Window Form C#\\Quanlinhansu\\QuanLiNhanSu\\QuanLiNhanSu\\User admin\\Taikhoan.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanSu\\User admin\\Taikhoan.cs",
+              "ToolTip": "E:\\CONG NGHE MOI\\C#\\Window Form C#\\Quanlinhansu\\QuanLiNhanSu\\QuanLiNhanSu\\User admin\\Taikhoan.cs",
+              "RelativeToolTip": "QuanLiNhanSu\\User admin\\Taikhoan.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAArwLgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:29:46.306Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
