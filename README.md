@@ -1,14 +1,17 @@
 1. Login
 ![image](https://github.com/user-attachments/assets/ce28db00-2c86-4456-98c2-3ae6d8f5cd3d)
-
+- khi đăng nhập người dùng có thể chọn đăng nhập hoặc đăng ký .
+- Nếu đăng nhập thì có 2 loại tài khoản admin và user
+- admin thì chuyển vào trang home
+- user thì chuyển vào trang user
 
 2. Key
 ![image](https://github.com/user-attachments/assets/7aebf1df-abea-493a-be79-38d3664edc84)
-
+- Sau khi nhấn đăng ký sẽ phải nhập key để được đăng ký , key được nhà cung cấp đưa cho bên khách hàng
 
 3. Register
 ![image](https://github.com/user-attachments/assets/e285c7c4-77c1-4480-9e23-86b113746085)
-
+- Chỉ đăng ký được tài khoản admin, sau khi đăng ký chuyển về trang đăng nhập
 4. Manager
    4.1 Nhân viên
    ![image](https://github.com/user-attachments/assets/a80168d3-4257-47b3-bb2d-2c25bfab95f2)
